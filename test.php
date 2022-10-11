@@ -18,7 +18,7 @@
           </a>
         </li>
         <li>
-          <a href="my2/i/index.html">
+          <a href="index.html">
             <i class='bx-menu'></i>
             <b class="links_name">QR Generation</b>
           </a>
